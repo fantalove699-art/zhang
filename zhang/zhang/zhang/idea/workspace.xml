@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4afa6f95-7edb-42a6-ae16-c8ecd2eecc2d" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="EmbeddingIndexingInfo">
+    <option name="cachedIndexableFilesCount" value="9" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="2.1673238636152304E-29" />
+      <entry key="MS500" value="1.8500827537981603E-6" />
+      <entry key="S2" value="0.03916479913563791" />
+      <entry key="S5" value="0.35493362685307694" />
+      <entry key="S10" value="0.8158125372499396" />
+      <entry key="S30" value="1.8022694420520595" />
+      <entry key="S60" value="2.9673014654859937" />
+      <entry key="M2" value="4.339896791771163" />
+      <entry key="M5" value="6.310397366743185" />
+      <entry key="M10" value="12.26172135330352" />
+      <entry key="M15" value="19.97391086571326" />
+      <entry key="M30" value="37.895447602464856" />
+      <entry key="H1" value="54.71987942801645" />
+      <entry key="H2" value="66.38890631241097" />
+      <entry key="H4" value="73.28250844553085" />
+      <entry key="D1" value="79.65233493474834" />
+      <entry key="W1" value="80.80591420276824" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.0" />
+      <entry key="S2" value="1.0000000000000584" />
+      <entry key="S5" value="1.0000050909352054" />
+      <entry key="S10" value="1.0023175422647272" />
+      <entry key="S30" value="1.1935637465254665" />
+      <entry key="S60" value="1.715238099144702" />
+      <entry key="M2" value="2.442344885276387" />
+      <entry key="M5" value="3.419356087236534" />
+      <entry key="M10" value="5.649022177078521" />
+      <entry key="M15" value="8.544211425824624" />
+      <entry key="M30" value="15.49795568685607" />
+      <entry key="H1" value="22.226238169653953" />
+      <entry key="H2" value="26.975799317605983" />
+      <entry key="H4" value="29.8082052589194" />
+      <entry key="D1" value="32.44112643953143" />
+      <entry key="W1" value="32.91947487005844" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="1.641557441328694E-13" />
+      <entry key="MS500" value="0.0027736477753526638" />
+      <entry key="S2" value="0.23580133740125303" />
+      <entry key="S5" value="0.7463569656207493" />
+      <entry key="S10" value="1.3633548846201615" />
+      <entry key="S30" value="2.7681620735184738" />
+      <entry key="S60" value="4.5420378530877334" />
+      <entry key="M2" value="6.698600542647358" />
+      <entry key="M5" value="9.687326419657852" />
+      <entry key="M10" value="17.870838308787707" />
+      <entry key="M15" value="28.474786698874148" />
+      <entry key="M30" value="53.35203739481124" />
+      <entry key="H1" value="76.91611178799545" />
+      <entry key="H2" value="93.34645646629652" />
+      <entry key="H4" value="103.08062831447566" />
+      <entry key="D1" value="112.09163232804441" />
+      <entry key="W1" value="113.72512394527048" />
+    </decayedShown>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3Ecqxx8WCseCI8XXAPfZEtF4NzG" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
+    "Maven.zhang [org.apache.tomcat.maven:tomcat7-maven-plugin:2.2:run].executor": "Run",
+    "Maven.zhang [tomcat7:run].executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "File.Encoding"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="zhang [tomcat7:run]" type="MavenRunConfiguration" factoryName="Maven" temporary="true">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="cmdOptions" />
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="tomcat7:run" />
+              </list>
+            </option>
+            <option name="multimoduleDir" />
+            <option name="pomFileName" value="pom.xml" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="projectsCmdOptionValues">
+              <list />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Maven.zhang [tomcat7:run]" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-37e91769500f-intellij.indexing.shared.core-IU-261.24374.151" />
+        <option value="bundled-js-predefined-d6986cc7102b-31caf2ab9e3c-JavaScript-IU-261.24374.151" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4afa6f95-7edb-42a6-ae16-c8ecd2eecc2d" name="Changes" comment="" />
+      <created>1780488457751</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1780488457751</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
